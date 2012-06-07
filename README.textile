@@ -1,0 +1,3 @@
+h2. wet_sample_comment_saved Textpattern plugin
+
+A sample plugin for "Textpattern CMS":http://textpattern.com/ to serve as a skeleton for plugins which hook into the @comment.saved@ event.
